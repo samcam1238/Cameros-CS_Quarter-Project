@@ -1,0 +1,112 @@
+.header
+{
+    margin-bottom: 10px;
+    padding: 15px;
+    height: 4vh;
+    background-color: rgb(157, 165, 0);
+    width: 97vw;
+    display: flex;
+    align-items: center;
+}
+
+.header img
+{
+    height: 35px;
+    width: 35px;
+    border-radius: 60%;
+}
+
+.header a
+{
+    text-decoration: none;
+    align-content: flex-start;
+    color: rgb(0, 0, 0);
+}
+
+.hp
+{
+    background-color: rgb(113, 0, 113);
+}
+
+
+.body
+{
+    text-align: center;
+    align-items: center;    
+    margin-bottom: 50px;
+    height: 50vh;
+    width: 97vw;
+    background-color: rgb(113, 0, 113);
+}
+
+.body a
+{
+    text-decoration: none;
+    color: rgb(113, 0, 113);
+}
+
+.footer
+{
+    width: 97vw;
+    height: 8vh;
+    padding: 15px;
+    background-color: rgb(157, 165, 0);
+}
+
+
+
+.intro
+{
+    background-color: rgb(113, 0, 113);
+}
+
+.main
+{
+    padding: 15px;
+    max-width: 70%;
+    margin-bottom: 50px;
+    height: 66vh;
+    width: 97vw;
+}
+
+.body2
+{
+    padding: 15px;
+    max-width: 70%;
+    margin-bottom: 50px;
+    height: 80vh;
+    width: 97vw;
+}
+
+.aboutme img
+{
+    height: 150px;
+    width: 150px;
+    padding-left: 46%;    
+}
+
+.research
+{
+    background-color: rgb(113, 0, 113);
+}
+
+.aboutme
+{
+    padding: 10px;
+    margin-bottom: 50px;
+    height: 66vh;
+    width: 97vw;
+}
+
+.ako
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+    max-width: 70%;
+    margin-bottom: 50px;
+    height: 80vh;
+    width: 97vw;
+    padding-left: 9%;    
+}
